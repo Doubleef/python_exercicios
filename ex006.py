@@ -1,3 +1,4 @@
+#Crie um algoritmo que leia um número e mostre o seu dobro, triplo e a raiz quadrada.
 num = int(input("Digite um número: "))
 dob = num * 2
 trip = num * 3

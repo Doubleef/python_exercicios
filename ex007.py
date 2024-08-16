@@ -1,3 +1,4 @@
+#Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 n1 = int(input("Digite a Primeira Nota: "))
 n2 = int(input("Digite a Segunda Nota: "))
 soma = (n1 + n2)
